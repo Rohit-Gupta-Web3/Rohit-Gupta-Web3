@@ -63,14 +63,3 @@ Enthusiast in **Artificial Intelligence** and **Blockchain**, currently sharpeni
 | [Knowledge-Engine](https://github.com/Rohit-Gupta-Web3/Knowledge-Engine) | Python knowledge engine project from AI bootcamp | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Knowledge-Engine?style=social) |
 | [AlgoPy-Wallet](https://github.com/Rohit-Gupta-Web3/AlgoPy-Wallet) | Simple Algorand wallet scripts | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/AlgoPy-Wallet?style=social) |
 | [Smart-Queuing-System](https://github.com/Rohit-Gupta-Web3/Smart-Queuing-System) | Queue monitoring with Intel OpenVINO | ![Stars](https://img.shields.io/github/stars/Rohit-Gupta-Web3/Smart-Queuing-System?style=social) |
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-Gupta-Web3&theme=tokyonight&margin-w=15" alt="trophies" />
-</div>
-
-### 🔥 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Gupta-Web3&theme=tokyonight&layout=compact" height="220" alt="languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Gupta-Web3&show_icons=true&theme=tokyonight" height="220" alt="stats" />
-</div>
