@@ -15,14 +15,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rohit-Gupta-Web3.Rohit-Gupta-Web3" alt="Profile visitors" height="28"/>
 </div>
 
----
-
 ## 👋 Hello, I'm Rohit
 
 I build production-minded software across **AI**, **Blockchain**, and **modern full-stack web development**.
 I enjoy taking ideas from prototype to practical deployment with clean architecture, measurable outcomes, and excellent user experience.
-
----
 
 ## 🧠 Professional Snapshot
 
@@ -32,16 +28,16 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 - 🤖 Focused on AI applications including computer vision and assistant systems
 - 🤝 Open to collaboration on impactful full-stack, AI, and blockchain products
 
----
-
 ## 🛠️ Tech I Have Worked With
 
 ### Core Languages & Frameworks
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,cs,react,nodejs,express,dotnet" alt="Python, JavaScript, C#, React, Node.js, Express, .NET" />
 </div>
 
 ### Data, Infra, and Web3
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
   <img width="8"/>
@@ -51,6 +47,7 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 </div>
 
 ### AI Platforms & Agentic Tooling
+
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
@@ -60,8 +57,6 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
   <img src="https://img.shields.io/badge/Antigravity-Agent%20Workflows-1E3A8A?style=for-the-badge" alt="Antigravity" />
 </div>
 
----
-
 ## 🚀 Use Cases & Outcomes
 
 | Use Case | What I Built | Outcome |
@@ -70,8 +65,6 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 | Conversational AI | Full-stack smart assistant system | Built an interactive assistant architecture integrating frontend and backend |
 | Knowledge Systems | Python-based knowledge engine | Structured and automated knowledge processing tasks |
 | Blockchain Utility | Algorand wallet scripts | Implemented wallet operations and Web3 scripting fundamentals |
-
----
 
 ## 📫 Let’s Connect
 
