@@ -13,14 +13,13 @@ class ReadmeStructureTests(unittest.TestCase):
             "## 🧠 Professional Snapshot",
             "## 🛠️ Tech I Have Worked With",
             "## 🚀 Use Cases & Outcomes",
-            "## 🌟 Featured Projects",
             "## 📫 Let’s Connect",
         ]
         for section in required_sections:
             with self.subTest(section=section):
                 self.assertIn(section, self.readme)
 
-    def test_core_technologies_are_listed(self):
+    def test_core_technologies_and_tooling_are_listed(self):
         technologies = [
             "C#/.NET",
             "React",
@@ -31,23 +30,19 @@ class ReadmeStructureTests(unittest.TestCase):
             "PostgreSQL",
             "Blockchain",
             "OpenVINO",
+            "Antigravity",
+            "OpenAI Codex",
+            "OpenCLAW",
+            "ChatGPT",
+            "Gemini",
+            "Claude",
         ]
         for tech in technologies:
             with self.subTest(tech=tech):
                 self.assertIn(tech, self.readme)
 
-    def test_featured_projects_are_present(self):
-        projects = [
-            "Arohi-ALPR",
-            "People-Counter-OpenVino",
-            "Smart-Assistant",
-            "Knowledge-Engine",
-            "AlgoPy-Wallet",
-            "Smart-Queuing-System",
-        ]
-        for project in projects:
-            with self.subTest(project=project):
-                self.assertIn(project, self.readme)
+    def test_featured_projects_section_removed(self):
+        self.assertNotIn("## 🌟 Featured Projects", self.readme)
 
 
 if __name__ == "__main__":

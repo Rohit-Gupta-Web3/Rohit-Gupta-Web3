@@ -38,26 +38,27 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 
 ### Core Languages & Frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,react,nodejs,express,dotnet" alt="Python, JavaScript, C#, React, Node.js, Express, .NET" />
 </div>
 
-### Data, Infra, and Applied Domains
-- **Databases:** MySQL, PostgreSQL
-- **AI/CV:** OpenVINO pipelines, ALPR workflows, assistant systems
-- **Blockchain/Web3:** wallet scripting, decentralized app foundations
-- **Engineering Practices:** project planning, cross-functional execution, rapid prototyping
+### Data, Infra, and Web3
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
+  <img width="8"/>
+  <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white" alt="Algorand" />
+</div>
+
+### AI Platforms & Agentic Tooling
+<div align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenCLAW-Agentic%20Tooling-0A0A0A?style=for-the-badge" alt="OpenCLAW" />
+  <img src="https://img.shields.io/badge/Antigravity-Agent%20Workflows-1E3A8A?style=for-the-badge" alt="Antigravity" />
+</div>
 
 ---
 
@@ -69,19 +70,6 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 | Conversational AI | Full-stack smart assistant system | Built an interactive assistant architecture integrating frontend and backend |
 | Knowledge Systems | Python-based knowledge engine | Structured and automated knowledge processing tasks |
 | Blockchain Utility | Algorand wallet scripts | Implemented wallet operations and Web3 scripting fundamentals |
-
----
-
-## 🌟 Featured Projects
-
-| Repository | Domain | Description |
-|---|---|---|
-| [Arohi-ALPR](https://github.com/Rohit-Gupta-Web3/Arohi-ALPR) | Computer Vision / AI | OpenALPR-based license plate recognition using Python |
-| [People-Counter-OpenVino](https://github.com/Rohit-Gupta-Web3/People-Counter-OpenVino) | AI / OpenVINO | Real-time people counting in frames with Intel OpenVINO |
-| [Smart-Assistant](https://github.com/Rohit-Gupta-Web3/Smart-Assistant) | Full-Stack AI | End-to-end AI assistant developed during intensive training |
-| [Knowledge-Engine](https://github.com/Rohit-Gupta-Web3/Knowledge-Engine) | AI / Python | Knowledge-engine implementation from AI bootcamp |
-| [AlgoPy-Wallet](https://github.com/Rohit-Gupta-Web3/AlgoPy-Wallet) | Blockchain / Web3 | Lightweight Algorand wallet scripting utilities |
-| [Smart-Queuing-System](https://github.com/Rohit-Gupta-Web3/Smart-Queuing-System) | AI / OpenVINO | Smart queue monitoring for crowd and flow analysis |
 
 ---
 
