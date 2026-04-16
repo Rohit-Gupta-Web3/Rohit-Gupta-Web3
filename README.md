@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rohit-gupta-ai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/RohitGuptaAI" target="_blank">
+  <a href="https://twitter.com/RohitGuptaWeb3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=111111&logoColor=white&style=for-the-badge" height="28" alt="Twitter/X" />
   </a>
   <a href="https://rohitg.site" target="_blank">
