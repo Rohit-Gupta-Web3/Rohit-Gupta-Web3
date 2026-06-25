@@ -70,6 +70,6 @@ I enjoy taking ideas from prototype to practical deployment with clean architect
 
 - LinkedIn: [rohit-gupta-ai](https://www.linkedin.com/in/rohit-gupta-ai/)
 - X/Twitter: [@RohitGuptaAI](https://twitter.com/RohitGuptaAI)
-- Portfolio: [rohitg.site](https://rohitg.site)
+- Portfolio: [Rohit Gupta](https://rohit-gupta-web3.github.io/Rohit-Gupta-v0/)
 
 If you're building in AI, Blockchain, or full-stack products, I'd love to connect and collaborate.
