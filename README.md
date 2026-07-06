@@ -9,7 +9,7 @@
   <a href="https://twitter.com/RohitGuptaWeb3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=111111&logoColor=white&style=for-the-badge" height="28" alt="Twitter/X" />
   </a>
-  <a href="https://rohitg.site" target="_blank">
+  <a href="https://rohit-gupta-web3.github.io/Rohit-Gupta-v0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF5722&logoColor=white&style=for-the-badge" height="28" alt="Website" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rohit-Gupta-Web3.Rohit-Gupta-Web3" alt="Profile visitors" height="28"/>
